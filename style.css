@@ -3,3 +3,10 @@
   font-weight: 400;
   font-style: normal;
 }
+.basic {
+  text-align: center;
+  color:darkolivegreen ;
+}
+#gummy { 
+  padding: 10px;
+}
